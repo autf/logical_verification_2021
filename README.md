@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/autf/logical_verification_2021)
+
 # Logical Verification 2021: Installation Instructions
 
 We have installation instructions for Windows, Linux, and macOS. As a backup
